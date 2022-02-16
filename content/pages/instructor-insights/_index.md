@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: cb497584-6877-8e21-77fb-38d11d372b42
 ---
@@ -49,13 +51,6 @@ None
 ### Offered
 
 Offered on a variable schedule.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-Seminars took place in the Massachusetts Correctional Institution in Norfolk with half of the class from MIT and half of the class from MCI Norfolk. The location and composition of the class was chosen based on the belief that bringing together students of sociology and urban studies who are incarcerated with those who are at MIT will create a unique and valuable environment in which to generate new knowledge about our social world and the repeated mechanisms that contribute to persistent socio-economic inequality and other pressing social problems. Participation in the course involved a commitment to a new type of learning environment.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

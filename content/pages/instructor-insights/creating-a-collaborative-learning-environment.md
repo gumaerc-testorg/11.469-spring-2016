@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: cb497584-6877-8e21-77fb-38d11d372b42
 title: 'Creating a Collaborative Learning Environment '
 uid: 4b7da0e2-e235-4de3-a048-31aedb5b5a52
