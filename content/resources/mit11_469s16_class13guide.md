@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f1ecff91-2762-bca1-9a5b-93e7bec27c68
 resourcetype: Document
 title: MIT11_469S16_Class13Guide.pdf
 uid: 820bfe9b-5213-674f-c4c2-bc48e18ec0a1
