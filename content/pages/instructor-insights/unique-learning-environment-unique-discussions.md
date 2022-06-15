@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Justin Steil and Aditi Mehta share how discussions in
+  11.469 Urban Sociology in Theory and Practice differed from others at private universities.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

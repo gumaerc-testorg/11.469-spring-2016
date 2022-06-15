@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Justin Steil and Aditi Mehta share their insights about
+  designing and teaching 11.469 Urban Sociology in Theory and Practice without the
+  use of any information communication technologies.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

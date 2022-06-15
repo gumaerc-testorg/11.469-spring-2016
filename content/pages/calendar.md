@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and assignment due
+  dates, and information on weekly response paper assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -9,7 +11,7 @@ uid: 4b7a310b-6a82-9ff2-bae1-1aeb94c35aba
 Weekly Response Paper
 ---------------------
 
-These will offer a critical assessment of the assigned materials and not mere restatement of content. Nine response papers are expected—you will not be expected to write one on the day you are presenting or on the day we discuss the ethnographies, and you will have one week of your choice off. The responses will be graded on a √+, √, √- scale. For more information, please see the [Assignments]({{< baseurl >}}/pages/assignments) page.
+These will offer a critical assessment of the assigned materials and not mere restatement of content. Nine response papers are expected—you will not be expected to write one on the day you are presenting or on the day we discuss the ethnographies, and you will have one week of your choice off. The responses will be graded on a √+, √, √- scale. For more information, please see the {{% resource_link b921fe32-9313-6014-d62e-73dc1627ef0c "Assignments" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
