@@ -5,6 +5,7 @@ file: /courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/820bfe9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT11_469S16_Class13Guide.pdf
 uid: 820bfe9b-5213-674f-c4c2-bc48e18ec0a1
 ---
 This resource contains the information regarding class 13 guide.
-
