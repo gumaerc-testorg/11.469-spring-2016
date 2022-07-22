@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'This section provides details on the course assignments, including weekly
+  response papers, weekly presentations, ethnography group presentations, reflection
+  papers, and the final paper. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b921fe32-9313-6014-d62e-73dc1627ef0c
 ---

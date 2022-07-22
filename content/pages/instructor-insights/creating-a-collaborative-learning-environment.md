@@ -1,13 +1,16 @@
 ---
 content_type: page
-layout: instructor_insights
-parent_title: Instructor Insights
+description: 11.469 Urban Sociology in Theory and Practice comprised students from
+  MIT and from the Boston University Metropolitan College Prison Education Program,
+  and took place at the Massachusetts Correctional Institution in Norfolk. In this
+  section, Justin Steil and Aditi Mehta share their insights about creating and sustaining
+  a collaborative classroom environment.
+draft: false
 parent_uid: cb497584-6877-8e21-77fb-38d11d372b42
-title: 'Creating a Collaborative Learning Environment '
+title: Creating a Collaborative Learning Environment
 uid: 4b7da0e2-e235-4de3-a048-31aedb5b5a52
 ---
-
-_11.469 Urban Sociology in Theory and Practice comprised students from MIT and from the [Boston University Metropolitan College Prison Education Program](http://sites.bu.edu/pep/), and took place at the [Massachusetts Correctional Institution in Norfolk](http://www.mass.gov/eopss/law-enforce-and-cj/prisons/doc-facilities/mci-norfolk.html). In this section, Justin Steil and Aditi Mehta share their insights about creating and sustaining a collaborative classroom environment._
+_11.469 Urban Sociology in Theory and Practice comprised students from MIT and from the_ [_Boston University Metropolitan College Prison Education Program_](http://sites.bu.edu/pep/)_, and took place at the_ [_Massachusetts Correctional Institution in Norfolk_](https://www.mass.gov/locations/mci-norfolk)_. In this section, Justin Steil and Aditi Mehta share their insights about creating and sustaining a collaborative classroom environment._
 
 {{< quote "The course attracted socially aware and empathetic individuals from both institutions, making a discussion-based, collaborative learning environment particularly rewarding." "— Justin Steil and Aditi Mehta" >}}
 

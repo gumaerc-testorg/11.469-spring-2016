@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings for each session
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f1ecff91-2762-bca1-9a5b-93e7bec27c68
 ---
@@ -68,7 +73,7 @@ Early Urban Sociology
 
 DuBois, W. E. B. Chapters 1–2 in _The Souls of Black Folk: A Social Study_. Tribeca Books, 2011. ISBN: 9781612931074.
 
-Simmel, Georg. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Metropolis and Metal Life (PDF)](http://www.blackwellpublishing.com/content/bpl_images/content_store/sample_chapter/0631225137/bridge.pdf) (1903).
+Simmel, Georg. [The Metropolis and Metal Life (PDF)](http://www.blackwellpublishing.com/content/bpl_images/content_store/sample_chapter/0631225137/bridge.pdf) (1903).
 
 Park, Robert E. "[The City: Suggestions for the Investigation of Human Behavior in the City Environment](http://www.jstor.org/stable/2763406)." _American Journal of Sociology_ 20, no. 5 (1915): 577–612.
 
@@ -92,7 +97,7 @@ Community and How to Study It
 {{< tdopen >}}
 
 
-[Class 4 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_469s16_class4guide)
+{{% resource_link b11caade-eadc-7882-ad1b-31172bb6dda2 "Class 4 Study Guide (PDF)" %}}
 
 Brint, Steven. "[Gemeinschaft Revisited: A Critique and Reconstruction of the Community Concept](http://onlinelibrary.wiley.com/doi/10.1111/0735-2751.00125/abstract)." _Sociological Theory_ 19, no. 1 (2001): 1–23.
 
@@ -156,7 +161,7 @@ Urban Political Economy: Cities, Industrialization, and Deindustrialization
 {{< tdopen >}}
 
 
-[Class 6 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_469s16_class6guide)
+{{% resource_link 327288c6-83ef-307e-c115-977cf0a421f8 "Class 6 Study Guide (PDF)" %}}
 
 Katznelson, Ira. Chapters 2, 3, and 8 in _City Trenches: Urban Politics and the Patterning of Class in the United States_. Chicago University Press, 1981.  ISBN: 9780226426730. \[Preview with [Google Books](http://books.google.com/books?id=agVLU0dyi-QC&pg=PA25=onepage)\]
 
@@ -226,7 +231,7 @@ Identities, Boundaries, and Inequality
 {{< tdopen >}}
 
 
-[Class 9 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_469s16_class9guide)
+{{% resource_link 81a897a7-ca76-4f59-2511-c4b654ab7ff8 "Class 9 Study Guide (PDF)" %}}
 
 Fanon, Franz. Chapter 2 in _Toward the African Revolution_. Grove Press, 1994. ISBN: 9780802130907.
 
@@ -260,13 +265,13 @@ Social Capital and Social Networks
 {{< tdopen >}}
 
 
-[Class 10 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_469s16_class10guide)
+{{% resource_link 28861db3-e0bd-e79f-fb2d-21e4f9e1f575 "Class 10 Study Guide (PDF)" %}}
 
 Bourdieu, Pierre. "The Forms of Capital." In _Handbook of Theory and Research for the Sociology of Education_. Edited by John Richardson. _Greenwood_, 1986, pp. 46–58. ISBN: 9780313235290.
 
 Coleman, James S. "[Social Capital in the Creation of Human Capital](http://www.jstor.org/stable/2780243)." _American Journal of Sociology_ 94 (1988): S95–S120.
 
-Lin, Nan. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Building a Network Theory of Social Capital (PDF - 1.8MB)](https://pdfs.semanticscholar.org/16a9/441c05a3bb9e359c868dde882889c6ef8df9.pdf)." _Connections_ 22, no. 1 (1999): 28–51.
+Lin, Nan. "[Building a Network Theory of Social Capital (PDF - 1.8MB)](https://pdfs.semanticscholar.org/16a9/441c05a3bb9e359c868dde882889c6ef8df9.pdf)." _Connections_ 22, no. 1 (1999): 28–51.
 
 Burt, Ronald S. "[Structural Holes and Good Ideas](http://dx.doi.org/10.1086/421787)." _American Journal of Sociology_ 110, no. 2 (2004): 349–99.
 
@@ -286,17 +291,17 @@ Neighborhood Effects: Order, Disorder, and Collective Efficacy
 {{< tdopen >}}
 
 
-[Class 11 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_469s16_class11guide)
+{{% resource_link ce0f82e7-d89e-f0c8-c793-a0b472ec9636 "Class 11 Study Guide (PDF)" %}}
 
 Sampson, Robert J. "[Moving to Inequality: Neighborhood Effects and Experiments Meet Social Structure](http://dx.doi.org/10.1086/589843)." _American Journal of Sociology_ 114, no. 1 (2008): 189–231.
 
-Sharkey, Patrick. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Residential Mobility and the Reproduction of Unequal Neighborhoods](https://www.huduser.gov/portal/periodicals/cityscpe/vol14num3/Cityscape_Nov2012_res_mobility.pdf)." _Cityscape_ (2012): 9–31.
+Sharkey, Patrick. "[Residential Mobility and the Reproduction of Unequal Neighborhoods](https://www.huduser.gov/portal/periodicals/cityscpe/vol14num3/Cityscape_Nov2012_res_mobility.pdf)." _Cityscape_ (2012): 9–31.
 
 ———. "[Geographic Migration of Black and White Families Over Four Generations](http://dx.doi.org/10.1007/s13524-014-0368-8)." _Demography_ 52, no. 1 (2015): 209–31.
 
 Sharkey, Patrick, and Jacob W. Faber. "[Where, When, Why, and for Whom Do Residential Contexts Matter? Moving Away from the Dichotomous Understanding of Neighborhood Effects](http://dx.doi.org/10.1146/annurev-soc-071913-043350)." _Annual Review of Sociology_ 40 (2014): 559–79.
 
-Chetty, Raj, Nathaniel Hendren, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Where Is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States (PDF - 2.3MB)](http://dx.doi.org/10.3386/w19843)." No. w19843. National Bureau of Economic Research, 2014.
+Chetty, Raj, Nathaniel Hendren, et al. "[Where Is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States (PDF - 2.3MB)](http://dx.doi.org/10.3386/w19843)." No. w19843. National Bureau of Economic Research, 2014.
 
 Chetty, Raj, Nathaniel Hendren, et al. "[The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment](http://dx.doi.org/10.1257/aer.20150572)." _American Economic Review_ 106, no. 4 (2016): 855–902.
 
@@ -316,7 +321,7 @@ Social Origins of Violence
 {{< tdopen >}}
 
 
-[Class 12 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_469s16_class12guide)
+{{% resource_link 18fd57b4-2b4f-a4b5-4d0d-3f26887fdf48 "Class 12 Study Guide (PDF)" %}}
 
 Sampson, Robert J., Stephen W. Raudenbush, et al. "[Neighborhoods and Violent Crime: A Multilevel Study of Collective Efficacy](http://science.sciencemag.org/content/277/5328/918.full)." _Science_ 277, no. 5328 (1997): 918–24.
 
@@ -346,7 +351,7 @@ Collective Action
 {{< tdopen >}}
 
 
-[Class 13 Study Guide (PDF)]({{< baseurl >}}/resources/mit11_469s16_class13guide)
+{{% resource_link 820bfe9b-5213-674f-c4c2-bc48e18ec0a1 "Class 13 Study Guide (PDF)" %}}
 
 Olson, Mancur. _The Logic of Collective Action: Public Goods and the Theory of Groups_. Harvard University Press, 1971, pp. 9–16. ISBN: 9780674537514.
 

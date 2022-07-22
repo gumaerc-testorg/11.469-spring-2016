@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Justin Steil and Aditi Mehta share their insights about
+  designing and teaching 11.469 Urban Sociology in Theory and Practice without the
+  use of any information communication technologies.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: cb497584-6877-8e21-77fb-38d11d372b42
 title: Teaching Without Information Communication Technologies
 uid: e9f5dfe5-353a-5ec1-46b5-af117a98f305
