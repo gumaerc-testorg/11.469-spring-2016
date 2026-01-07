@@ -10,7 +10,7 @@ parent_uid: cb497584-6877-8e21-77fb-38d11d372b42
 title: Creating a Collaborative Learning Environment
 uid: 4b7da0e2-e235-4de3-a048-31aedb5b5a52
 ---
-_11.469 Urban Sociology in Theory and Practice comprised students from MIT and from the_ {{% resource_link "f3a4ec47-4584-493f-ad56-3c19a33bd652" "_Boston University Metropolitan College Prison Education Program_" %}}_, and took place at the_ {{% resource_link "76d5fc1d-3a93-4de3-ba86-a17cc2166062" "_Massachusetts Correctional Institution in Norfolk_" %}}_. In this section, Justin Steil and Aditi Mehta share their insights about creating and sustaining a collaborative classroom environment._
+_11.469 Urban Sociology in Theory and Practice comprised students from MIT and from the_ [_Boston University Metropolitan College Prison Education Program_](http://sites.bu.edu/pep/)_, and took place at the_ [_Massachusetts Correctional Institution in Norfolk_](https://www.mass.gov/locations/mci-norfolk)_. In this section, Justin Steil and Aditi Mehta share their insights about creating and sustaining a collaborative classroom environment._
 
 {{< quote "The course attracted socially aware and empathetic individuals from both institutions, making a discussion-based, collaborative learning environment particularly rewarding." "— Justin Steil and Aditi Mehta" >}}
 
